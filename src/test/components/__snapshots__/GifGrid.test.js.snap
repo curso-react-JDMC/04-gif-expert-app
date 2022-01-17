@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pruebas en GifGrid debe mostrarse correctamente 1`] = `
+<Fragment>
+  <h3
+    className="animate_animated animate_fadeIn"
+  >
+    Harry potter
+  </h3>
+  <p>
+    Loading
+  </p>
+  <div
+    className="card-grid"
+  >
+    <ol />
+  </div>
+</Fragment>
+`;
